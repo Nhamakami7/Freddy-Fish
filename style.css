@@ -1,0 +1,54 @@
+.subtext {
+   font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+   font-family:'Times New Roman', Times, serif;
+   font-size: 30px;
+   font-weight: bold;
+   -webkit-text-stroke-width: .15px;
+   -webkit-text-stroke-color: white;
+}
+
+.background {
+   background-image: url("https://cdn.wallpapersafari.com/77/36/efHpVU.jpg"); 
+}
+
+/* body {
+   display: flex;
+   justify-content: center;
+}
+*/
+
+.button {
+   font-family:'Times New Roman', Times, serif;
+   font-size: 30px;
+}
+
+.counter {
+   font-family:'Times New Roman', Times, serif;
+   font-size: 30px;
+}
+
+.heart {
+   position: relative;
+}
+
+.parent {
+   position: relative;
+   top: 0;
+   left: 0;
+}
+
+.tear {
+   position: relative;
+   top: 0;
+   left: 0;
+}
+
+.freddy {
+   position: absolute;
+   top: 0;
+   left: 0;
+}
+
